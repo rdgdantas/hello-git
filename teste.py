@@ -1,4 +1,4 @@
-nome = input("Digite seu nome:")
+nome = input("Digite seu nome completo")
 print("Boa Noite")
-print ("Seja Bem Vindo " + nome)
+print ("Seja muito Bem Vindo " + nome)
 print("Obrigado por visitar nosso site")
