@@ -1,4 +1,4 @@
-nome = input("Digite seu nome:")
-print("Boa Noite")
-print ("Seja Bem Vindo " + nome)
-print("Obrigado por visitar nosso site")
+nome = input("Type your name")
+print("Good Nigth")
+print ("Welcome" + nome)
+print("Thanks!")
